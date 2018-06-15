@@ -1,3 +1,3 @@
-1 + 1
+x = 1 + 1
 
 puts 1 + "is the loneliest number"
